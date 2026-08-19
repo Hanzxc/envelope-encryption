@@ -1,0 +1,20 @@
+# Cryptographic material and plaintext input — NEVER commit these
+key.txt
+private_key.pem
+public_key.pem
+data_cipher.txt
+key_cipher.txt
+my_secrets.txt
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
